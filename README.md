@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Test Method 2
 
-You can use the [editor on GitHub](https://github.com/Manchester2/NIR2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Integrate a test method on nest
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Add theme 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+add description of the method
 
 ```markdown
 Syntax highlighted code block
