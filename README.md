@@ -1,15 +1,6 @@
 ## Test Method 2
 
 Integrate a test method on nest
-
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-	     <meta charset="UTF-8">
-	     <title> Blend Uniformity Determination using NIR spectroscopy  </title>
-	</head>
-	<body style="background-color: white; color: green">
-		<h1> BU using NIR spectroscopy  </h1>
 		
 ## Blend Uniformity Determination using NIR spectroscopy 
 		# Purpose
@@ -19,9 +10,6 @@ Integrate a test method on nest
 		2.
 		3.
 		4.
-			
-</body>
-</html>
 # Header 1
 ## Header 2
 ### Header 3
