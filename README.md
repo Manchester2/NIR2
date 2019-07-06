@@ -2,13 +2,26 @@
 
 Integrate a test method on nest
 
-### Add theme 
-
-add description of the method
-
-```markdown
-Syntax highlighted code block
-
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	     <meta charset="UTF-8">
+	     <title> Blend Uniformity Determination using NIR spectroscopy  </title>
+	</head>
+	<body style="background-color: white; color: green">
+		<h1> BU using NIR spectroscopy  </h1>
+		
+## Blend Uniformity Determination using NIR spectroscopy 
+		# Purpose
+		# Method
+		Add List 
+		1.
+		2.
+		3.
+		4.
+			
+</body>
+</html>
 # Header 1
 ## Header 2
 ### Header 3
